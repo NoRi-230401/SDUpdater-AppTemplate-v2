@@ -1,0 +1,1 @@
+# SDUpdater-AppTemplate-v2
