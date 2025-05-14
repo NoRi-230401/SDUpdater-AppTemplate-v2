@@ -95,6 +95,15 @@ vsCodeの下部にある　`Switch PlatformIO Project enviroment`で対象デバ
 *   SDカードの初期化に失敗した場合、ディスプレイに「ERR: SD begin ...」と表示され、プログラムは停止します。この場合、SDカードの接続や状態を確認してください。
 *   M5Stack CoreS3で `menu.bin` をロードする際は、メッセージ表示中の3秒以内にBtnAを押す必要があります。
 
----
-この説明書が、あなたのM5Stackプロジェクトの一助となれば幸いです。
+
+## 8. Link
+
+[SDUpdater-AppTemplate-v2](https://github.com/NoRi-230401/SDUpdater-AppTemplate-v2)
+
+[SimpleMenu-SDUpdater](https://github.com/NoRi-230401/SimpleMenu-SDUpdater)
+
+[CardputerSimpleLauncher@shikarunochi](https://github.com/shikarunochi/CardputerSimpleLaucher)
+
+[M5Stack-SD-Updater@tobozo](https://github.com/tobozo/M5Stack-SD-Updater)
+
 

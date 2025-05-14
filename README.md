@@ -91,5 +91,15 @@ If you start the device without performing the key operations described above, a
 *   If SD card initialization fails, "ERR: SD begin ..." will be displayed on the screen, and the program will stop. In this case, check the SD card's connection and status.
 *   When loading `menu.bin` on M5Stack CoreS3, you need to press BtnA within 3 seconds while the message is displayed.
 
----
-We hope this guide helps with your M5Stack project.
+
+## 8. Link
+
+[SDUpdater-AppTemplate-v2](https://github.com/NoRi-230401/SDUpdater-AppTemplate-v2)
+
+[SimpleMenu-SDUpdater](https://github.com/NoRi-230401/SimpleMenu-SDUpdater)
+
+[CardputerSimpleLauncher@shikarunochi](https://github.com/shikarunochi/CardputerSimpleLaucher)
+
+[M5Stack-SD-Updater@tobozo](https://github.com/tobozo/M5Stack-SD-Updater)
+
+
